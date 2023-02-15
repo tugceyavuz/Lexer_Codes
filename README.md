@@ -1,2 +1,2 @@
-# Lexer_Codes
-CSE341 PL HW2
+# Lexer Codes (including Flex code)
+GTU CSE341 PL HW2
